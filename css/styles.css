@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-image: url("../img/word.gif");
+}
+.container {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10%;
+  margin-top: 2rem;
+  background-color: #fff;
+}
+h1, h2 {
+  font-family: 'Uncial Antiqua', cursive;
+}
+h2 {
+  font-size: 25px;
+}
+h4{
+  padding: 2rem;
+}
+button {
+  margin:  3rem;
+}
