@@ -9,7 +9,7 @@
 _Takes a sentence and replaces vowels with dashes using javaScript._
 
 ####
-<img src="screenshot.png" alt="A screenshot of the site">
+<img src="site-img.png" alt="A screenshot of the site">
 
 ##Setup and Installation
 
