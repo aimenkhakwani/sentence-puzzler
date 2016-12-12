@@ -2,11 +2,10 @@ body {
     text-align: center;
     background-image: url("../img/word.gif");
 }
-.container {
+.col-md-8 {
   border: 1px solid #000;
   border-radius: 10px;
-  padding: 10%;
-  margin-top: 2rem;
+  margin-top: 10rem;
   background-color: #fff;
 }
 h1, h2 {
